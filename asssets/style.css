@@ -621,18 +621,3 @@ footer {
     color: white;
 }
 
-#contact .copy-hide {
-    opacity: 0;
-}
-
-@media (max-width:767px) {
-    #contact .copy-hide {
-        opacity: 1;
-    }
-    #contact .copy-show {
-        opacity: 0;
-    }
-    #contact .copyright {
-        text-align: center;
-    }
-}
